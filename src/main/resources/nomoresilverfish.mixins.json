@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.billadom.nomoresilverfish.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "nomoresilverfish.refmap.json",
+  "mixins": [
+    "InfestedBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
