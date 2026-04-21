@@ -1,9 +1,7 @@
 {
   "required": true,
-  "minVersion": "0.8",
   "package": "com.billadom.nomoresilverfish.mixin",
-  "compatibilityLevel": "JAVA_8",
-  "refmap": "nomoresilverfish.refmap.json",
+  "compatibilityLevel": "JAVA_21",
   "mixins": [
     "BaseSpawnerMixin",
     "EntityTypeMixin",
@@ -12,8 +10,6 @@
     "SilverfishMixin",
     "SilverfishWakeUpFriendsGoalMixin",
     "SummonCommandMixin"
-  ],
-  "client": [
   ],
   "injectors": {
     "defaultRequire": 1
