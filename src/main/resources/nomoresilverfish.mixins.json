@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "nomoresilverfish.refmap.json",
   "mixins": [
+    "BaseSpawnerMixin",
     "InfestedBlockMixin",
     "SilverfishWakeUpFriendsGoalMixin"
   ],
