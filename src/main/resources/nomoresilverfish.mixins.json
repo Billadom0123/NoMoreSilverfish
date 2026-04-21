@@ -6,6 +6,7 @@
   "refmap": "nomoresilverfish.refmap.json",
   "mixins": [
     "BaseSpawnerMixin",
+    "EntityTypeMixin",
     "InfestedBlockMixin",
     "SilverfishWakeUpFriendsGoalMixin"
   ],
