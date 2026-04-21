@@ -8,7 +8,10 @@
     "BaseSpawnerMixin",
     "EntityTypeMixin",
     "InfestedBlockMixin",
-    "SilverfishWakeUpFriendsGoalMixin"
+    "ServerLevelMixin",
+    "SilverfishMixin",
+    "SilverfishWakeUpFriendsGoalMixin",
+    "SummonCommandMixin"
   ],
   "client": [
   ],
