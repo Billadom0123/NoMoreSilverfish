@@ -6,6 +6,7 @@
     "BaseSpawnerMixin",
     "EntityTypeMixin",
     "InfestedBlockMixin",
+    "LivingEntityMixin",
     "ServerLevelMixin",
     "SilverfishMixin",
     "SilverfishWakeUpFriendsGoalMixin",
